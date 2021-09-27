@@ -1,3 +1,4 @@
+#quando o codigo for executado, os arquivos ja serão enviados para as respectivas pastas selecionadas
 import os
 
 listaDeArquivos = os.listdir("Mover")
